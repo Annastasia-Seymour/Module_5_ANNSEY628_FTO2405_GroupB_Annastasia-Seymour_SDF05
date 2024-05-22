@@ -1,6 +1,6 @@
 body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-image: url("images/table.png") ;
+    background-image: url("images/table.png") ; /*for some reason couldn't find the image folder , but adapted*/
     background-size:cover;
     text-align: center;
     color:white;
@@ -20,9 +20,9 @@ button{
     background: goldenrod;
     padding-top: 5px;
     padding-bottom: 5px;
-    font-weight:bold;
-    border:none;
+    font-weight: bold;
+    border: none;
     border-radius: 2px;
     margin-bottom: 2px;
-    margin-top:2px;
+    margin-top: 2px;
 }
