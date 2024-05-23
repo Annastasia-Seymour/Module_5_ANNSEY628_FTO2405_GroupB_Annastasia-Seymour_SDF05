@@ -1,3 +1,4 @@
+//I wasnt sure if i was supposed to keep it per or put my name
 let player = {
     name : "Per",
     chips : 200
